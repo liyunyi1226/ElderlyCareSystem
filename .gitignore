@@ -1,0 +1,16 @@
+# 构建产物
+backend/target/
+frontend-vue/node_modules/
+frontend-vue/dist/
+
+# IDE
+.idea/
+*.iml
+
+# 本地私密配置（AI 密钥）
+backend/src/main/resources/application-local.properties
+
+# 日志与系统文件
+*.log
+.DS_Store
+Thumbs.db
