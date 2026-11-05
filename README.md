@@ -46,15 +46,15 @@
 
 | 社区工作台 | 老年人管理 |
 | --- | --- |
-| ![社区工作台](docs/screenshots/02-community-dashboard.png) | ![老年人管理](docs/screenshots/03-community-elderly.png) |
+| ![社区工作台](https://gcore.jsdelivr.net/gh/liyunyi1226/ElderlyCareSystem@main/docs/screenshots/02-community-dashboard.png) | ![老年人管理](https://gcore.jsdelivr.net/gh/liyunyi1226/ElderlyCareSystem@main/docs/screenshots/03-community-elderly.png) |
 
 | 派医工单 | 求助事件 |
 | --- | --- |
-| ![派医工单](docs/screenshots/04-community-orders.png) | ![求助事件](docs/screenshots/05-community-events.png) |
+| ![派医工单](https://gcore.jsdelivr.net/gh/liyunyi1226/ElderlyCareSystem@main/docs/screenshots/04-community-orders.png) | ![求助事件](https://gcore.jsdelivr.net/gh/liyunyi1226/ElderlyCareSystem@main/docs/screenshots/05-community-events.png) |
 
 | AI 辅助诊断（真实大模型） | 数据管理后台 |
 | --- | --- |
-| ![AI 辅助诊断](docs/screenshots/10-doctor-ai-result.png) | ![数据管理后台](docs/screenshots/11-admin-data.png) |
+| ![AI 辅助诊断](https://gcore.jsdelivr.net/gh/liyunyi1226/ElderlyCareSystem@main/docs/screenshots/10-doctor-ai-result.png) | ![数据管理后台](https://gcore.jsdelivr.net/gh/liyunyi1226/ElderlyCareSystem@main/docs/screenshots/11-admin-data.png) |
 
 ## 一次完整业务闭环（以摔倒告警为例）
 
