@@ -40,6 +40,22 @@
 
 一个社区可有多名工作人员和多名医生；每位医生归属一个社区；社区工作人员只能看到本社区数据，医生只能看到指派给自己的工单和自己负责的老人。
 
+## 界面预览
+
+以下截图基于演示数据，分辨率 1600×900。
+
+| 社区工作台 | 老年人管理 |
+| --- | --- |
+| ![社区工作台](docs/screenshots/02-community-dashboard.png) | ![老年人管理](docs/screenshots/03-community-elderly.png) |
+
+| 派医工单 | 求助事件 |
+| --- | --- |
+| ![派医工单](docs/screenshots/04-community-orders.png) | ![求助事件](docs/screenshots/05-community-events.png) |
+
+| AI 辅助诊断（真实大模型） | 数据管理后台 |
+| --- | --- |
+| ![AI 辅助诊断](docs/screenshots/10-doctor-ai-result.png) | ![数据管理后台](docs/screenshots/11-admin-data.png) |
+
 ## 一次完整业务闭环（以摔倒告警为例）
 
 1. 老人在家摔倒，佩戴的跌倒监测设备触发告警（演示环境中由社区人员在"监护设备"页模拟触发）。
